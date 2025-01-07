@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [Kaveri Patil] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -23,15 +23,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSC205 Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Kaveri Patil</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02FE23BCS139</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prof.Vaishali Y.Parab</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>DR.M.SHESHGIRI COLLEGE OF ENGINEERING & TECHNOLOGY</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
