@@ -31,7 +31,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Instructor</dt>
 <dd>Prof.Vaishali Y.Parab</dd>
 <dt>University</dt>
-<dd>DR.M.SHESHGIRI COLLEGE OF ENGINEERING & TECHNOLOGY</dd>
+<dd>KLE DR.M.SHESHGIRI COLLEGE OF ENGINEERING & TECHNOLOGY UNIVERSITY,BELAGAVI</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
